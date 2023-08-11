@@ -6,7 +6,7 @@ Snake Game Web Component created with Svelte
 
 bundle.js final size is: ~5.4 KB (Gzipped)
 
-🎮 Play game at https://gogakoreli.github.io/svelte-snake-web-component
+🎮 Play game at https://snake-virid.vercel.app/
 
 ⌨️ Use W A S D or Arrow Keys for movement
 
